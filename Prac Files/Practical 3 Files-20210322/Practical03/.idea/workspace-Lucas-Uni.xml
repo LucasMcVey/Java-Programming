@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea80e2c7-0424-4193-b13f-6ef360b8e332" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ezcS1nGDPUTDiY0Jdgrp0Cysk4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.205052" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Practical03" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../../../../Program Files/AdoptOpenJDK/jdk-14.0.2.12-hotspot" />
+      <option name="MAIN_CLASS_NAME" value="practical03.Ticket" />
+      <module name="Practical03" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea80e2c7-0424-4193-b13f-6ef360b8e332" name="Default Changelist" comment="" />
+      <created>1595327857425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595327857425</updated>
+      <workItem from="1595327860758" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595328390530">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2334" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1595328390530" />
+    <state x="2609" y="369" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595327903598">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2609" y="369" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1595327903598" />
+    <state x="2660" y="320" key="FileChooserDialogImpl" timestamp="1595327957269">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2660" y="320" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1595327957269" />
+    <state x="2360" y="154" key="SettingsEditor" timestamp="1595328470868">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2360" y="154" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1595328470868" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1595328213805">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160/1920.0.1920.1160@1920.0.1920.1160" timestamp="1595328213805" />
+  </component>
+</project>
